@@ -1,2 +1,3 @@
 The is an example library file B.
 updated from submodule.
+updated from submodule X2.
